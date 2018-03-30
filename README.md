@@ -59,6 +59,10 @@ Below are depicted a few samples of the model.
 
 ![sample](./results/sample_5.png)
 
+## Future Works
+
+  * Run the model on a Video
+
 ### Setup
 ##### Frameworks and Packages
 Make sure you have the following is installed:
